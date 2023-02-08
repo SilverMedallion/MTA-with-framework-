@@ -1,0 +1,15 @@
+﻿  Animation.cpp
+  AudioManager.cpp
+  BaseLevel.cpp
+  Collision.cpp
+  GameState.cpp
+  Input.cpp
+  MusicObject.cpp
+  GameObject.cpp
+  SoundObject.cpp
+  TileMap.cpp
+  VectorHelper.cpp
+  Level.cpp
+  Main.cpp
+  Generating Code...
+  CMP105App.vcxproj -> M:\Revive\SFMLRevisit\MTA-with-framework\Coursework\x64\Debug\CMP105App.exe
