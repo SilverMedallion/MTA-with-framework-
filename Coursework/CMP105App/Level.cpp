@@ -26,8 +26,10 @@ void Level::handleInput(float dt)
 void Level::update(float dt)
 {
 	//comment put here for the purposes of the git bash tutorial by corey schafter 18:30
-	int result = multiply(8, 5);
+	int result = multiply(100, 65);
 	std::cout << result << std::endl;
+	//another comment to follow changes in tutuorial 
+
 }
 
 // Render level
