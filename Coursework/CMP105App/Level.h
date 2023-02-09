@@ -11,7 +11,7 @@ public:
 	void handleInput(float dt) override;
 	void update(float dt);
 	void render();
-
+	int multiply(int a, int b);
 private:
 	// Default functions for rendering to the screen.
 	
